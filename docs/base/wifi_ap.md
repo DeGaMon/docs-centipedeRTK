@@ -10,7 +10,7 @@ Acces Point Installation
 ========================
 
 ## Easy installation
-Run the automated version of the **Manual installation** by running the command line script in a terminal, from inside this folder :
+Run the automated version of the **Manual installation** by running the command line script in a terminal, from inside [folder?]:
 >```
 >bash wifi_ap.sh
 >```
