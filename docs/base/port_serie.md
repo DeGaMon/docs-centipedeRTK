@@ -3,7 +3,7 @@ layout: default
 title: Activation du port serie
 parent: Installation logiciel
 grand_parent: Fabriquer une base RTK
-nav_order: 8
+nav_order: 1
 ---
 
 ## Activation du port serie
